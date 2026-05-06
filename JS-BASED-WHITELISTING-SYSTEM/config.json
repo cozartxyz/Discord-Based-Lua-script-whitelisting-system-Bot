@@ -1,0 +1,7 @@
+{
+    "token": "discord token",
+    "clientid": "",
+    "mongodb": "mongodb stuff here",
+    "whitelist_role": "1047211910531141702",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/'))()"
+}
